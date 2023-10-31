@@ -1,0 +1,39 @@
+body {
+    background-image: url(https://img1.picmix.com/output/stamp/normal/6/5/9/3/1563956_97cf4.gif);
+    max-width: 100%;
+}
+
+.text {
+    font-size: 26px;
+    /* margin-left: 10%; */
+    text-align: center;
+    color:  rgb(80, 74, 69);
+}
+
+h1 {
+    margin-left: 33%;
+    margin-top: 15%;
+    color:  rgb(39, 36, 33)19;
+}
+
+a {
+    /* margin-left: 15% */
+    background-color: white;
+}
+
+.center {
+    background-color: rgb(224, 205, 189);
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 15px;
+    width: 60%;
+    margin: auto;
+}
+
+button {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: 5px;
+    background-color:   rgb(177, 163, 150);
+    color:  rgb(83, 76, 70)19;
+} 
